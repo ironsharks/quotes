@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Submit a quote here!](https://ironsharks.github.io/quotes/submit).
+[Submit a quote here!]https://ironsharks.github.io/quotes/submit).
 
 ### Jekyll Themes
 
