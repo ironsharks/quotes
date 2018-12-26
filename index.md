@@ -1,3 +1,3 @@
-![Image](ironshark.png)
-
-[Submit a quote here!](https://ironsharks.github.io/quotes/submit).
+![Image](ironfish.png)
+[2019](https://ironsharks.github.io/quotes/submit)
+[Submit a quote here!](https://ironsharks.github.io/quotes/submit)
