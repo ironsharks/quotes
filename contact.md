@@ -7,4 +7,4 @@ got a problem with our site? too bad. jk
 Juli M: jcam.july@gmail.com
 Serena S: serenasherwood@gmail.com
 
-we'll take down stuff, [try to] fix stuff, [maybe] add stuff, whatever
+we'll take down stuff, [try to] fix stuff, [maybe] add stuff, whatever, just shoot us an email :)
