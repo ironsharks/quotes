@@ -1,10 +1,6 @@
 ![image](ironfish.png)
 
-got a problem with our site?
-
-too bad.
-
-jk
+got a problem with our site? too bad. jk
 
 ## Contact Us Here:
 
